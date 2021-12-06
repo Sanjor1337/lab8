@@ -1,0 +1,13 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>главная</title>
+</head>
+<body>
+<h2>
+Это конечно не резюме
+</h2>
+<p font-size ="+3"> но зацените пёсиля</font></p>
+<img src ="собачка.jpg">
+</body>
+</html>
